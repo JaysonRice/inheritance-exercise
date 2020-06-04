@@ -1,0 +1,13 @@
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.exe
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.deps.json
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.runtimeconfig.json
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.runtimeconfig.dev.json
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.dll
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\bin\Debug\netcoreapp3.1\inheritance-practice.pdb
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.csprojAssemblyReference.cache
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.AssemblyInfoInputs.cache
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.AssemblyInfo.cs
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.csproj.CoreCompileInputs.cache
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.dll
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.pdb
+C:\Users\jrice\workspace\csharp\exercises\inheritance-practice\obj\Debug\netcoreapp3.1\inheritance-practice.genruntimeconfig.cache
