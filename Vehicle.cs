@@ -8,4 +8,12 @@ public class Vehicle
     {
         Console.WriteLine("Vrooom!");
     }
+    public virtual void Turn()
+    {
+        Console.WriteLine("The vehicle signals before making a right turn.");
+    }
+    public virtual void Stop()
+    {
+        Console.WriteLine("The vehicle slows to a stop.");
+    }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace inheritance_practice
 {
@@ -6,6 +7,9 @@ namespace inheritance_practice
     {
         static void Main(string[] args)
         {
+
+            List<Vehicle> allVehicles = new List<Vehicle>();
+
             Tesla JaysonsCar = new Tesla()
             {
                 MainColor = "Black",
@@ -26,11 +30,18 @@ namespace inheritance_practice
                 MaximumOccupancy = "6",
                 FuelCapacity = 31.5
             };
-            JaysonsCar.Drive();
-            JaysonsCessna.Drive();
-            JaysonsTruck.Drive();
 
+            allVehicles.Add(JaysonsCar);
+            allVehicles.Add(JaysonsCessna);
+            allVehicles.Add(JaysonsTruck);
 
+            foreach (Vehicle singleVehicle in allVehicles)
+            {
+                singleVehicle.Drive();
+                singleVehicle.Turn();
+                singleVehicle.Stop();
+                Console.WriteLine();
+            }
         }
     }
 }

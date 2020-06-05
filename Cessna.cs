@@ -10,6 +10,14 @@ public class Cessna : Vehicle
 
     public override void Drive()
     {
-        Console.WriteLine($"The {MainColor} cessna flies by! Zoooooom!");
+        Console.WriteLine($"The {MainColor} Cessna flies by! Zoooooom!");
+    }
+    public override void Turn()
+    {
+        Console.WriteLine($"The {MainColor} Cessna does a barrel roll maneuver.");
+    }
+    public override void Stop()
+    {
+        Console.WriteLine($"The {MainColor} Cessna lands at the airport!");
     }
 }
